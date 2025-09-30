@@ -1,16 +1,45 @@
 # 💻 Skills
 
 ## Minecraft Development
-I’ve been developing **Minecraft Bedrock add-ons** and **custom worlds** for over five years.  
-I focus on creating **interactive mechanics, entities, particles, sounds**, and sometimes **Blockbench models and animations** when needed.  
-I also work with **custom structures, features, and commands** (including `/camera`).
 
-## Workflow & Project Management
-I always keep my **code clean and organized**, push regular commits to **GitHub**, and use **Jira** to manage tasks and projects.
+**What I’m good at these days:**
 
-## Studio Experience
-I’ve worked with studios like **Meraki Studios, Kubo Studios, Pickaxe Studios, The Craft Stars, and Piki Studios**, gaining experience across multiple aspects of Minecraft development.  
-I also had the chance to be **lead developer** at Pickaxe Studios, guiding projects and small teams.
+- **Add-ons & custom worlds** – designing engaging gameplay experiences for Bedrock Edition.  
+- **Scripting & functions** – creating interactive mechanics, custom commands (including `/camera`), and gameplay logic.  
+- **Entities** – adding custom behaviors, AI, and interactions for mobs and NPCs.  
+- **Particles & sounds** – improving player experience with visual effects and audio cues.  
+- **Custom structures & features** – creating and placing dynamic structures, features, and world generation elements.  
+- **Blockbench models & animations** – creating and using custom models and animations when needed.  
+- **Debugging & optimization** – making sure add-ons run smoothly on different devices.  
 
-## Learning & Collaboration
-I’m passionate about **learning new features**, experimenting with **custom mechanics**, and **collaborating with other developers** to build polished, fun, and playable experiences.
+## Project Management & Workflow
+
+- **Version control** – GitHub, with frequent commits and clean, organized repositories.  
+- **Task management** – Jira for tracking tasks, features, and bugs across projects.  
+- **Team collaboration** – experience working with multiple studios and small teams.  
+
+## Technical Practices
+
+- Writing clean, maintainable code that’s easy to update or expand.  
+- Following structured workflows for multi-person projects.  
+- Using feedback & QA processes to polish add-ons before release.  
+
+## Leadership & Mentoring
+
+- Experience as **lead developer** at Pickaxe Studios, guiding projects and small teams.  
+- Supporting team members in scripting, entity setup, custom features, and add-on workflows.  
+- Helping other developers understand Bedrock scripting mechanics and best practices.  
+
+## Tools & Software
+
+- Minecraft Bedrock Editor / Add-On system  
+- Blockbench (models & animations)  
+- Visual Studio Code (scripting & JSON editing)  
+- GitHub & Jira  
+- Minecraft testing environments across devices  
+
+## Continuous Learning
+
+- Exploring new Bedrock scripting features and updates.  
+- Experimenting with custom mechanics, structures, advanced entity behaviors, and `/camera` setups.  
+- Improving workflow and collaboration skills for larger projects.  
