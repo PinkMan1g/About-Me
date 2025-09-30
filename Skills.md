@@ -32,14 +32,14 @@
 
 ## Tools & Software
 
-- Minecraft Bedrock Editor / Add-On system  
 - Blockbench (models & animations)  
 - Visual Studio Code (scripting & JSON editing)  
 - GitHub & Jira  
 - Minecraft testing environments across devices  
-
+- Snowstorm (particles)
+  
 ## Continuous Learning
 
 - Exploring new Bedrock scripting features and updates.  
-- Experimenting with custom mechanics, structures, advanced entity behaviors, and `/camera` setups.  
+- Experimenting with custom mechanics, structures and advanced entity behaviors.
 - Improving workflow and collaboration skills for larger projects.  
