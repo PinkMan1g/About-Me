@@ -6,7 +6,7 @@
 
 - **Add-ons & custom worlds** – designing engaging gameplay experiences for Bedrock Edition.  
 - **Scripting & functions** – creating interactive mechanics, custom commands (including `/camera`), and gameplay logic.  
-- **Entities** – adding custom behaviors, AI, and interactions for mobs and NPCs.  
+- **Entities** – adding custom behaviors and interactions for mobs and NPCs.  
 - **Particles & sounds** – improving player experience with visual effects and audio cues.  
 - **Custom structures & features** – creating and placing dynamic structures, features, and world generation elements.  
 - **Blockbench models & animations** – creating and using custom models and animations when needed.  
