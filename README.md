@@ -44,5 +44,3 @@ I also enjoy sharing what I learn with others, whether through tutorials, helpin
 I’m excited to continue building **interesting Minecraft experiences** and push the limits of what Bedrock add-ons and custom worlds can do. I want to keep learning, experimenting, and collaborating with other creators to make projects that are both **fun and polished**.
 
 ---
-
-> "Clean, organized, and creative — that’s how I like to build Minecraft worlds."
